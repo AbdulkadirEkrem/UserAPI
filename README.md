@@ -1,48 +1,39 @@
-# UserInfo
 
-**Android Jetpack Compose app showcasing a Material 3 UI that fetches and displays users from the JSONPlaceholder API.**
+## ✨ Özellikler / Features
 
-**Türkçe:**  
-JSONPlaceholder API’sinden kullanıcı verilerini çekip Material 3 tasarımıyla listeleyen Android Jetpack Compose uygulaması.
+- 👤 Kullanıcı verilerini JSONPlaceholder'dan çeker  
+- 🎨 Material 3 ile kart tasarımı içinde gösterir  
+- 🔄 Veri çekilirken yükleniyor animasyonu gösterir  
+- 📱 Merkezde hizalı TopAppBar (menü ve arama ikonları placeholder)  
+- 🎨 Durum çubuğu (status bar) uygulama temasıyla senkronize
 
-## Features
+---
 
-- Fetches user data from the [JSONPlaceholder Users endpoint](https://jsonplaceholder.typicode.com/users).  
-- Displays users in a clean, Material 3 Card layout.  
-- Shows a loading indicator while fetching data.  
-- Center-aligned TopAppBar with menu and search icons (placeholders).  
-- Syncs status bar color with the app theme.
+## 🖼️ Ekran Görüntüsü / Screenshot
 
-## Screenshots
+> (Buraya `user.PNG` ya da uygun bir ekran görüntüsü ekleyebilirsin)
 
-![User List](user.PNG)
+---
 
-<!--  
-If you placed the image in a `docs/` folder instead, use:
-![User List](docs/user.PNG)
--->
+## ⚙️ Kurulum / Setup
 
-## Setup
+1. Android Studio ile projeyi açın  
+2. Gradle senkronizasyonunu tamamlayın  
+3. Gerçek cihaz veya emülatör üzerinde çalıştırın
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/AbdulkadirEkrem/User-Information-API.git
-2. Open the project in Android Studio.
+## 📦 Bağımlılıklar / Dependencies
 
-3. Let Gradle sync and build the project.
+- Kotlin  
+- Jetpack Compose  
+- Material 3  
+- Retrofit 2 + Gson  
 
-4. Run the app on an emulator or physical device.
+## 👨‍💻 Geliştirici / Developer
 
-## Dependencies
+**Abdulkadir Ekrem**  
+[LinkedIn Profilim](https://www.linkedin.com/in/abdulkadirekrem)  
+📧 abdulkadirekrem@gmail.com
 
-- Kotlin
-- Jetpack Compose
-- Material 3
-- Retrofit 2 & Gson
-
-## License
-
-- MIT © Abdulkadir Ekrem
 
 
 
