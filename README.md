@@ -1,6 +1,4 @@
-# UserApp
-
-![App Screenshot](docs/user.PNG)
+# UserInfo
 
 **Android Jetpack Compose app showcasing a Material 3 UI that fetches and displays users from the JSONPlaceholder API.**
 
@@ -17,7 +15,12 @@ JSONPlaceholder API’sinden kullanıcı verilerini çekip Material 3 tasarımı
 
 ## Screenshots
 
+![User List](user.PNG)
+
+<!--  
+If you placed the image in a `docs/` folder instead, use:
 ![User List](docs/user.PNG)
+-->
 
 ## Setup
 
