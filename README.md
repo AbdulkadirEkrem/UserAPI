@@ -11,7 +11,10 @@
 
 ## 🖼️ Ekran Görüntüsü / Screenshot
 
-> (Buraya `user.PNG` ya da uygun bir ekran görüntüsü ekleyebilirsin)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulkadirEkrem/UserAPI/master/user.PNG" alt="User Info Screenshot" width="300" />
+</p>
+
 
 ---
 
