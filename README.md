@@ -34,10 +34,14 @@ If you placed the image in a `docs/` folder instead, use:
 4. Run the app on an emulator or physical device.
 
 ## Dependencies
--Kotlin
--Jetpack Compose
--Material 3
--Retrofit 2 & Gson
 
-##License
-MIT © Abdulkadir Ekrem
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Retrofit 2 & Gson
+
+## License
+
+- MIT © Abdulkadir Ekrem
+
+
