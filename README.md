@@ -1,4 +1,10 @@
+# 📱 UserInfo
 
+**Android Jetpack Compose** ile geliştirilen bu uygulama, JSONPlaceholder API’den kullanıcı verilerini çekerek **Material 3** tasarımıyla listeler.
+
+> Android Jetpack Compose app showcasing a Material 3 UI that fetches and displays users from the JSONPlaceholder API.
+
+---
 ## ✨ Özellikler / Features
 
 - 👤 Kullanıcı verilerini JSONPlaceholder'dan çeker  
